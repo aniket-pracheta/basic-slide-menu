@@ -1,0 +1,17 @@
+<Alloy>
+	<Window class="container" id="window1">
+
+			
+		<View class="view_main" id="view_main" >
+			<Label id="label" onClick="doClick" class="font">Hello, World</Label>
+		</View>
+		
+		<View class="menu" id="menu">
+			<Label > hiiii</Label>
+		</View>	
+		
+		
+
+	
+	</Window>
+</Alloy>

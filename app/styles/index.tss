@@ -1,0 +1,38 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: "45dp",
+	}
+},
+".view_main":{
+	backgroundColor:"cyan",
+	height:"100%",
+	width:Titanium.UI.FILL,
+	touchEnabled:"true",
+	//scaleX:"60px",
+    //scaleY:"60px",
+    
+},
+".menu":{
+	width:"200",
+	backgroundColor:"red",
+	left:"-200",
+	height:Titanium.UI.FILL,
+	touchEnabled:"true",
+	//zIndex:"1"
+},
+".font":{
+	font: {
+		fontSize: "45dp",
+		//fontWeight:'bold',
+	}
+}
